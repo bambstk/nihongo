@@ -1,0 +1,142 @@
+[
+    {
+        "id": 0,
+        "kanji": "人",
+        "furigana": "ひと",
+        "traduction": "Personne",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 1,
+        "kanji": "男",
+        "furigana": "おとこ",
+        "traduction": "Homme",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 2,
+        "kanji": "女",
+        "furigana": "おんな",
+        "traduction": "Femme",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 3,
+        "kanji": "子",
+        "furigana": "こ",
+        "traduction": "Enfant",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 4,
+        "kanji": "日",
+        "furigana": "ひ",
+        "traduction": "Soleil",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 5,
+        "kanji": "月",
+        "furigana": "つき",
+        "traduction": "Lune",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 6,
+        "kanji": "時",
+        "furigana": "とき",
+        "traduction": "Temps",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 7,
+        "kanji": "火",
+        "furigana": "ひ",
+        "traduction": "Feu",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 8,
+        "kanji": "土",
+        "furigana": "つち",
+        "traduction": "Terre (sol)",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 9,
+        "kanji": "風",
+        "furigana": "かぜ",
+        "traduction": "Vent",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 10,
+        "kanji": "空",
+        "furigana": "そら",
+        "traduction": "Ciel",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 11,
+        "kanji": "山",
+        "furigana": "やま",
+        "traduction": "Montagne",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 12,
+        "kanji": "川",
+        "furigana": "かわ",
+        "traduction": "Rivière",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 13,
+        "kanji": "木",
+        "furigana": "き",
+        "traduction": "Arbre",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 14,
+        "kanji": "花",
+        "furigana": "はな",
+        "traduction": "Fleur",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 15,
+        "kanji": "雨",
+        "furigana": "あめ",
+        "traduction": "Pluie",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 16,
+        "kanji": "雪",
+        "furigana": "ゆき",
+        "traduction": "Neige",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 17,
+        "kanji": "水",
+        "furigana": "みず",
+        "traduction": "Eau",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 18,
+        "kanji": "金",
+        "furigana": "かね",
+        "traduction": "Argent (Monnaie)",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 19,
+        "kanji": "刀",
+        "furigana": "かたな",
+        "traduction": "Sabre (Katana)",
+        "catgeories": ["premiers kanjis"]
+    }
+]
