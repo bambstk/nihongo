@@ -138,5 +138,250 @@
         "furigana": "かたな",
         "traduction": "Sabre (Katana)",
         "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 20,
+        "kanji": "家畜",
+        "furigana": "かちく",
+        "traduction": "animaux domestiques",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 21,
+        "kanji": "犬",
+        "furigana": "いぬ",
+        "traduction": "chien",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 22,
+        "kanji": "猫",
+        "furigana": "ねこ",
+        "traduction": "chat",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 23,
+        "kanji": "鳥",
+        "furigana": "とり",
+        "traduction": "oiseau",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 24,
+        "kanji": "魚",
+        "furigana": "さかな",
+        "traduction": "poisson",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 25,
+        "kanji": "狸",
+        "furigana": "たぬき",
+        "traduction": "tanuki",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 26,
+        "kanji": "兎",
+        "furigana": "うさぎ",
+        "traduction": "lapin",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 27,
+        "kanji": "牛",
+        "furigana": "うし",
+        "traduction": "vache",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 28,
+        "kanji": "羊",
+        "furigana": "ひつじ",
+        "traduction": "mouton",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 29,
+        "kanji": "豚",
+        "furigana": "ぶた",
+        "traduction": "cochon",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 30,
+        "kanji": "馬",
+        "furigana": "うま",
+        "traduction": "cheval",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 31,
+        "kanji": "鹿",
+        "furigana": "しか",
+        "traduction": "cerf",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 32,
+        "kanji": "鶏",
+        "furigana": "にわとり",
+        "traduction": "pouler",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 33,
+        "kanji": "鼠",
+        "furigana": "ねずみ",
+        "traduction": "souris / rat",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 34,
+        "kanji": "山羊",
+        "furigana": "やぎ",
+        "traduction": "chevre",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 35,
+        "kanji": "針鼠",
+        "furigana": "はりねずみ",
+        "traduction": "herisson",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 36,
+        "kanji": "馬鹿",
+        "furigana": "ばか",
+        "traduction": "idiot",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 37,
+        "kanji": "ロバ",
+        "furigana": "驢馬",
+        "traduction": "ane",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 38,
+        "kanji": "ラクダ",
+        "furigana": "駱駝",
+        "traduction": "chameau / dromadaire",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 39,
+        "kanji": "リス",
+        "furigana": "栗鼠",
+        "traduction": "ecureuil",
+        "catgeories": ["animaux"]
+    },
+    {
+        "id": 40,
+        "kanji": "京",
+        "furigana": "みやこ",
+        "traduction": "capitale",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 41,
+        "kanji": "北",
+        "furigana": "きた",
+        "traduction": "nord",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 42,
+        "kanji": "南",
+        "furigana": "みなみ",
+        "traduction": "sud",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 43,
+        "kanji": "東",
+        "furigana": "ひがし",
+        "traduction": "est (direction cardinale)",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 44,
+        "kanji": "西",
+        "furigana": "にし",
+        "traduction": "ouest",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 45,
+        "kanji": "中",
+        "furigana": "なか",
+        "traduction": "interieur / dans",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 46,
+        "kanji": "国",
+        "furigana": "くに",
+        "traduction": "pays",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 47,
+        "kanji": "元",
+        "furigana": "もと",
+        "traduction": "origine",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 48,
+        "kanji": "本",
+        "furigana": "もと / ホン",
+        "traduction": "livre / origine",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 49,
+        "kanji": "田",
+        "furigana": "た",
+        "traduction": "riwiere",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 50,
+        "kanji": "口",
+        "furigana": "くち",
+        "traduction": "bouche",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 51,
+        "kanji": "島",
+        "furigana": "しま",
+        "traduction": "ile",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 52,
+        "kanji": "松",
+        "furigana": "まつ",
+        "traduction": "pin",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 53,
+        "kanji": "宮",
+        "furigana": "みや",
+        "traduction": "palais",
+        "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 54,
+        "kanji": "崎",
+        "furigana": "さき",
+        "traduction": "promontoire",
+        "catgeories": ["premiers kanjis"]
     }
 ]
