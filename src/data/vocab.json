@@ -346,7 +346,7 @@
         "id": 49,
         "kanji": "田",
         "furigana": "た",
-        "traduction": "riwiere",
+        "traduction": "riziere",
         "catgeories": ["premiers kanjis"]
     },
     {
@@ -383,5 +383,684 @@
         "furigana": "さき",
         "traduction": "promontoire",
         "catgeories": ["premiers kanjis"]
+    },
+    {
+        "id": 55,
+        "kanji": "挨拶",
+        "furigana": "あいさつ",
+        "traduction": "salutations",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 56,
+        "kanji": "礼儀",
+        "furigana": "れいぎ",
+        "traduction": "courtoisie",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 57,
+        "kanji": "はい",
+        "furigana": "はい",
+        "traduction": "oui",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 58,
+        "kanji": "いいえ",
+        "furigana": "いいえ",
+        "traduction": "non",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 59,
+        "kanji": "お願いします",
+        "furigana": "おねがいします",
+        "traduction": "s'il vous plait",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 60,
+        "kanji": "ありがとう",
+        "furigana": "ありがとう",
+        "traduction": "merci",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 61,
+        "kanji": "どういたしまして",
+        "furigana": "どういたしまして",
+        "traduction": "il n'y a pas de quoi",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 62,
+        "kanji": "おはよう",
+        "furigana": "おはよう",
+        "traduction": "boujour (matin)",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 63,
+        "kanji": "こんにちわ",
+        "furigana": "こんにちわ",
+        "traduction": "bonjour (journee)",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 64,
+        "kanji": "こんばんは",
+        "furigana": "こんばんは",
+        "traduction": "bonsoir",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 65,
+        "kanji": "お元気ですか",
+        "furigana": "おげんきですか",
+        "traduction": "comment allez vous",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 66,
+        "kanji": "さようなら",
+        "furigana": "さようなら",
+        "traduction": "au revoir",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 67,
+        "kanji": "またね",
+        "furigana": "またね",
+        "traduction": "a plus",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 68,
+        "kanji": "おやすみ",
+        "furigana": "おやすみ",
+        "traduction": "bonne nuit",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 69,
+        "kanji": "また明日",
+        "furigana": "またあした",
+        "traduction": "a demain",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 70,
+        "kanji": "初めまして",
+        "furigana": "はじめまして",
+        "traduction": "enchante",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 71,
+        "kanji": "どうぞ宜しくお願いします",
+        "furigana": "どうぞよろしくおねがいします",
+        "traduction": "enchante (poli)",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 72,
+        "kanji": "どうぞ",
+        "furigana": "どうぞ",
+        "traduction": "je vous en prie",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 73,
+        "kanji": "いただきます",
+        "furigana": "いただきます",
+        "traduction": "bon appetit",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 74,
+        "kanji": "すみません",
+        "furigana": "すみません",
+        "traduction": "excusew moi",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 75,
+        "kanji": "ごめん",
+        "furigana": "ごめん",
+        "traduction": "desole",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 76,
+        "kanji": "お疲れ様でした",
+        "furigana": "おつかれさまでした",
+        "traduction": "bon travail",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 77,
+        "kanji": "いってきます",
+        "furigana": "いってきます",
+        "traduction": "j'y vais",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 78,
+        "kanji": "いってらっしゃい",
+        "furigana": "いってらっしゃい",
+        "traduction": "bonne journee",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 79,
+        "kanji": "ただいま",
+        "furigana": "ただいま",
+        "traduction": "je suis rentre",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 80,
+        "kanji": "お帰り（なさい）",
+        "furigana": "おかえり（なさい）",
+        "traduction": "bon retour",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 81,
+        "kanji": "いらっしゃいませ",
+        "furigana": "いらっしゃいませ",
+        "traduction": "bienvenue",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 82,
+        "kanji": "ようこぞ",
+        "furigana": "ようこぞ",
+        "traduction": "bienvenue",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 83,
+        "kanji": "お邪魔します",
+        "furigana": "おじゃまします",
+        "traduction": "je rentre (je derange)",
+        "catgeories": ["formules de politesse"]
+    },
+    {
+        "id": 84,
+        "kanji": "家庭用品",
+        "furigana": "かていようひん",
+        "traduction": "materiel domestique",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 85,
+        "kanji": "ベッド",
+        "furigana": "ベッド",
+        "traduction": "lit",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 86,
+        "kanji": "ソファ－",
+        "furigana": "ソファー",
+        "traduction": "sofa",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 87,
+        "kanji": "ペン",
+        "furigana": "ペン",
+        "traduction": "stylo",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 88,
+        "kanji": "ノ－ト",
+        "furigana": "ノ－ト",
+        "traduction": "cahier",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 89,
+        "kanji": "カレンダ－",
+        "furigana": "カレンダ－",
+        "traduction": "calendrier",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 90,
+        "kanji": "ラジオ",
+        "furigana": "ラジオ",
+        "traduction": "radio",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 91,
+        "kanji": "ステレオ",
+        "furigana": "ステレオ",
+        "traduction": "chaine hifi",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 92,
+        "kanji": "テレビ",
+        "furigana": "テレビ",
+        "traduction": "television",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 93,
+        "kanji": "カメラ",
+        "furigana": "カメラ",
+        "traduction": "appareil photo",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 94,
+        "kanji": "パソコン",
+        "furigana": "パソコン",
+        "traduction": "pc",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 95,
+        "kanji": "エアコン",
+        "furigana": "エアコン",
+        "traduction": "clim",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 96,
+        "kanji": "リモコン",
+        "furigana": "リモコン",
+        "traduction": "telecommande",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 97,
+        "kanji": "クレジットカード",
+        "furigana": "クレジットカード",
+        "traduction": "carte de credit",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 98,
+        "kanji": "ドア",
+        "furigana": "ドア",
+        "traduction": "porte",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 99,
+        "kanji": "扉",
+        "furigana": "とびら",
+        "traduction": "porte",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 100,
+        "kanji": "ランプ",
+        "furigana": "ランプ",
+        "traduction": "lampe",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 101,
+        "kanji": "テ－ブル",
+        "furigana": "テ－ブル",
+        "traduction": "table",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 102,
+        "kanji": "フォ－ク",
+        "furigana": "フォ－ク",
+        "traduction": "fourchette",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 103,
+        "kanji": "ナイフ",
+        "furigana": "ナイフ",
+        "traduction": "couteau",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 104,
+        "kanji": "スプ－ン",
+        "furigana": "スプ－ン",
+        "traduction": "cuillere",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 105,
+        "kanji": "トイレ",
+        "furigana": "トイレ",
+        "traduction": "toilettes",
+        "catgeories": ["matériel domestique"]
+    },
+    {
+        "id": 106,
+        "kanji": "国々",
+        "furigana": "くにぐに",
+        "traduction": "pays (pluriel)",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 107,
+        "kanji": "呼ぶ",
+        "furigana": "よぶ",
+        "traduction": "appeler",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 108,
+        "kanji": "呼び方",
+        "furigana": "よびかた",
+        "traduction": "façon d'appeler",
+        "catgeories": ["bonus"]
+    },
+    {
+        "id": 109,
+        "kanji": "フランス",
+        "furigana": "フランス",
+        "traduction": "france",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 110,
+        "kanji": "スペイン",
+        "furigana": "スペイン",
+        "traduction": "espqgne",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 111,
+        "kanji": "イタリア",
+        "furigana": "イタリア",
+        "traduction": "italie",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 112,
+        "kanji": "ドイツ",
+        "furigana": "ドイツ",
+        "traduction": "allemagne",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 113,
+        "kanji": "イギリス",
+        "furigana": "イギリス",
+        "traduction": "royaume unis",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 114,
+        "kanji": "ギリシャ",
+        "furigana": "ギリシャ",
+        "traduction": "grece",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 115,
+        "kanji": "ポルトガル",
+        "furigana": "ポルトガル",
+        "traduction": "portugal",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 116,
+        "kanji": "ベルギー",
+        "furigana": "ベルギー",
+        "traduction": "belgique",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 117,
+        "kanji": "スイス",
+        "furigana": "スイス",
+        "traduction": "suisse",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 118,
+        "kanji": "ルクセンブルク",
+        "furigana": "ルクセンブルク",
+        "traduction": "luxembourg",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 119,
+        "kanji": "オランダ",
+        "furigana": "オランダ",
+        "traduction": "pays bas",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 120,
+        "kanji": "トルコ",
+        "furigana": "トルコ",
+        "traduction": "turquie",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 121,
+        "kanji": "シリア",
+        "furigana": "シリア",
+        "traduction": "syrie",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 122,
+        "kanji": "パレスチナ",
+        "furigana": "パレスチナ",
+        "traduction": "palestine",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 123,
+        "kanji": "カタ－ル",
+        "furigana": "カタ－ル",
+        "traduction": "qatar",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 124,
+        "kanji": "ドバイ",
+        "furigana": "ドバイ",
+        "traduction": "dubai",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 125,
+        "kanji": "ロシア",
+        "furigana": "ロシア",
+        "traduction": "russie",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 126,
+        "kanji": "アルジェリア",
+        "furigana": "アルジェリア",
+        "traduction": "algerie",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 127,
+        "kanji": "チュニシア",
+        "furigana": "チュニシア",
+        "traduction": "tunisie",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 128,
+        "kanji": "モロッコ",
+        "furigana": "モロッコ",
+        "traduction": "maroc",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 129,
+        "kanji": "エジプト",
+        "furigana": "エジプト",
+        "traduction": "egypte",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 130,
+        "kanji": "セネガル",
+        "furigana": "セネガル",
+        "traduction": "senegal",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 131,
+        "kanji": "コ－トジボワ－ル",
+        "furigana": "コ－トジボワ－ル",
+        "traduction": "cote d'ivoire",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 132,
+        "kanji": "コンゴ",
+        "furigana": "コンゴ",
+        "traduction": "congo",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 133,
+        "kanji": "コンゴ民主共和国",
+        "furigana": "コンゴみんしゅきょうわこく",
+        "traduction": "republique democratique du congo",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 134,
+        "kanji": "南アフリカ",
+        "furigana": "みなみアフリカ",
+        "traduction": "afrique du sud",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 135,
+        "kanji": "カナダ",
+        "furigana": "カナダ",
+        "traduction": "canada",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 136,
+        "kanji": "アメリカ",
+        "furigana": "アメリカ",
+        "traduction": "amerique",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 137,
+        "kanji": "アメリカ合衆国",
+        "furigana": "アメリカがっしゅうこく",
+        "traduction": "etats unis d'amerique",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 138,
+        "kanji": "メキシコ",
+        "furigana": "メキシコ",
+        "traduction": "mexique",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 139,
+        "kanji": "ブラジル",
+        "furigana": "ブラジル",
+        "traduction": "bresil",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 140,
+        "kanji": "アルゼンチン",
+        "furigana": "アルゼンチン",
+        "traduction": "argentine",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 141,
+        "kanji": "チリ",
+        "furigana": "チリ",
+        "traduction": "chili",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 142,
+        "kanji": "オ－ストラリア",
+        "furigana": "オ－ストラリア",
+        "traduction": "autralie",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 143,
+        "kanji": "ニュ－ジ－ランド",
+        "furigana": "ニュ－ジ－ランド",
+        "traduction": "nouvelle zelande",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 144,
+        "kanji": "シンガポール",
+        "furigana": "シンガポール",
+        "traduction": "singapour",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 145,
+        "kanji": "インド",
+        "furigana": "インド",
+        "traduction": "inde",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 146,
+        "kanji": "タイ",
+        "furigana": "タイ",
+        "traduction": "thailande",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 147,
+        "kanji": "ベトナム",
+        "furigana": "ベトナム",
+        "traduction": "vietnam",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 148,
+        "kanji": "中国",
+        "furigana": "ちゅうごく",
+        "traduction": "chine",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 149,
+        "kanji": "韓国",
+        "furigana": "かんこく",
+        "traduction": "coree (du sud)",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 150,
+        "kanji": "日本",
+        "furigana": "にほん　/にぽん",
+        "traduction": "japon",
+        "catgeories": ["pays"]
+    },
+    {
+        "id": 151,
+        "kanji": "家族",
+        "furigana": "かぞく",
+        "traduction": "famille",
+        "catgeories": ["famille"]
     }
 ]
