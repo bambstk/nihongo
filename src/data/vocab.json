@@ -1062,5 +1062,313 @@
         "furigana": "かぞく",
         "traduction": "famille",
         "catgeories": ["famille"]
+    },
+    {
+        "id": 152,
+        "kanji": "夫",
+        "furigana": "おっと",
+        "traduction": "epoux",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 153,
+        "kanji": "妻",
+        "furigana": "つま",
+        "traduction": "epouse",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 154,
+        "kanji": "両親",
+        "furigana": "りょうしん",
+        "traduction": "parents",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 155,
+        "kanji": "父",
+        "furigana": "ちち",
+        "traduction": "pere",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 156,
+        "kanji": "母",
+        "furigana": "はは",
+        "traduction": "mere",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 157,
+        "kanji": "子供",
+        "furigana": "こども",
+        "traduction": "enfant",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 158,
+        "kanji": "息子",
+        "furigana": "むすこ",
+        "traduction": "fils",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 159,
+        "kanji": "娘",
+        "furigana": "むすめ",
+        "traduction": "fille",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 160,
+        "kanji": "祖父母",
+        "furigana": "そふぼ",
+        "traduction": "grands parents",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 161,
+        "kanji": "祖父",
+        "furigana": "そふ",
+        "traduction": "grand pere",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 162,
+        "kanji": "祖母",
+        "furigana": "そぼ",
+        "traduction": "grand mere",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 163,
+        "kanji": "孫",
+        "furigana": "まご",
+        "traduction": "petit enfant",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 164,
+        "kanji": "双子",
+        "furigana": "ふたご",
+        "traduction": "jumeaux",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 165,
+        "kanji": "兄弟",
+        "furigana": "きょうだい",
+        "traduction": "fraterie",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 166,
+        "kanji": "兄",
+        "furigana": "あに",
+        "traduction": "grand frere",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 167,
+        "kanji": "弟",
+        "furigana": "おとうと",
+        "traduction": "petit frere",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 168,
+        "kanji": "姉",
+        "furigana": "あね",
+        "traduction": "grande soeur",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 169,
+        "kanji": "妹",
+        "furigana": "いもうと",
+        "traduction": "petite soeur",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 170,
+        "kanji": "いとこ",
+        "furigana": "従+兄/弟/姉/妹",
+        "traduction": "cousin.e",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 171,
+        "kanji": "伯父",
+        "furigana": "おじ",
+        "traduction": "oncle aine",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 172,
+        "kanji": "叔父",
+        "furigana": "おじ",
+        "traduction": "oncle cadet",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 173,
+        "kanji": "伯母",
+        "furigana": "おば",
+        "traduction": "tante ainee",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 174,
+        "kanji": "叔母",
+        "furigana": "おば",
+        "traduction": "tante cadete",
+        "catgeories": ["famille"]
+    },
+    {
+        "id": 175,
+        "kanji": "色",
+        "furigana": "いろ",
+        "traduction": "couleur",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 176,
+        "kanji": "赤",
+        "furigana": "あか",
+        "traduction": "rouge",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 177,
+        "kanji": "青",
+        "furigana": "あお",
+        "traduction": "bleu",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 178,
+        "kanji": "黄色",
+        "furigana": "きいろ",
+        "traduction": "jaune",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 179,
+        "kanji": "オレンジ色",
+        "furigana": "オレンジいろ",
+        "traduction": "orange",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 180,
+        "kanji": "紫",
+        "furigana": "むらさき",
+        "traduction": "violet",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 181,
+        "kanji": "緑",
+        "furigana": "みどり",
+        "traduction": "vert",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 182,
+        "kanji": "白",
+        "furigana": "しろ",
+        "traduction": "blanc",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 183,
+        "kanji": "黒",
+        "furigana": "くろ",
+        "traduction": "noir",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 184,
+        "kanji": "灰色",
+        "furigana": "はいいろ",
+        "traduction": "gris",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 185,
+        "kanji": "ピンク",
+        "furigana": "ピンク",
+        "traduction": "rose",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 186,
+        "kanji": "茶色",
+        "furigana": "ちゃいろ",
+        "traduction": "marron",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 187,
+        "kanji": "ベ－ジュ",
+        "furigana": "ベ－ジュ",
+        "traduction": "beige",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 188,
+        "kanji": "マゼンタ",
+        "furigana": "マゼンタ",
+        "traduction": "magenta",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 189,
+        "kanji": "薄紫色",
+        "furigana": "うすむらさきいろ",
+        "traduction": "mauve",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 190,
+        "kanji": "紅",
+        "furigana": "くれない",
+        "traduction": "cramoisi",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 191,
+        "kanji": "シアン",
+        "furigana": "シアン",
+        "traduction": "cyan",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 192,
+        "kanji": "水色",
+        "furigana": "みずいろ",
+        "traduction": "bleu clair",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 193,
+        "kanji": "インディゴ",
+        "furigana": "インディゴ",
+        "traduction": "indigo",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 194,
+        "kanji": "虹色",
+        "furigana": "にじいろ",
+        "traduction": "couleur arc-en-ciel",
+        "catgeories": ["couleurs"]
+    },
+    {
+        "id": 195,
+        "kanji": "金色",
+        "furigana": "きんいろ",
+        "traduction": "couleur or",
+        "catgeories": ["couleurs"]
     }
 ]
