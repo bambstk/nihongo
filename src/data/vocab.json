@@ -1370,5 +1370,692 @@
         "furigana": "きんいろ",
         "traduction": "couleur or",
         "catgeories": ["couleurs"]
+    },
+    {
+        "id": 196,
+        "kanji": "曜日",
+        "furigana": "ようび",
+        "traduction": "jours de la semaine",
+        "catgeories": ["semaine"]
+    },
+    {
+        "id": 197,
+        "kanji": "日曜日",
+        "furigana": "にちようび",
+        "traduction": "dimanche",
+        "catgeories": ["semaine"]
+    },
+    {
+        "id": 198,
+        "kanji": "月曜日",
+        "furigana": "げつようび",
+        "traduction": "lundi",
+        "catgeories": ["semaine"]
+    },
+    {
+        "id": 199,
+        "kanji": "火曜日",
+        "furigana": "かようび",
+        "traduction": "mardi",
+        "catgeories": ["semaine"]
+    },
+    {
+        "id": 200,
+        "kanji": "水曜日",
+        "furigana": "すいようび",
+        "traduction": "mercredi",
+        "catgeories": ["semaine"]
+    },
+    {
+        "id": 201,
+        "kanji": "木曜日",
+        "furigana": "もくようび",
+        "traduction": "jeudi",
+        "catgeories": ["semaine"]
+    },
+    {
+        "id": 202,
+        "kanji": "金曜日",
+        "furigana": "きにょうび",
+        "traduction": "vendredi",
+        "catgeories": ["semaine"]
+    },
+    {
+        "id": 203,
+        "kanji": "土曜日",
+        "furigana": "どようび",
+        "traduction": "samedi",
+        "catgeories": ["semaine"]
+    },
+    {
+        "id": 204,
+        "kanji": "太陽系",
+        "furigana": "たいようけい",
+        "traduction": "systeme solaire",
+        "catgeories": ["systeme solaire"]
+    },
+    {
+        "id": 205,
+        "kanji": "太陽",
+        "furigana": "たいよう",
+        "traduction": "soleil",
+        "catgeories": ["systeme solaire"]
+    },
+    {
+        "id": 206,
+        "kanji": "星",
+        "furigana": "ほし",
+        "traduction": "etoile",
+        "catgeories": ["systeme solaire"]
+    },
+    {
+        "id": 207,
+        "kanji": "火星",
+        "furigana": "かせい",
+        "traduction": "mars",
+        "catgeories": ["systeme solaire"]
+    },
+    {
+        "id": 208,
+        "kanji": "水星",
+        "furigana": "すいせい",
+        "traduction": "mercure",
+        "catgeories": ["systeme solaire"]
+    },
+    {
+        "id": 209,
+        "kanji": "n木星",
+        "furigana": "もくせい",
+        "traduction": "jupiter",
+        "catgeories": ["systeme solaire"]
+    },
+    {
+        "id": 210,
+        "kanji": "金星",
+        "furigana": "きんせい",
+        "traduction": "venus",
+        "catgeories": ["systeme solaire"]
+    },
+    {
+        "id": 211,
+        "kanji": "土星",
+        "furigana": "どせい",
+        "traduction": "saturne",
+        "catgeories": ["systeme solaire"]
+    },
+    {
+        "id": 212,
+        "kanji": "天王星",
+        "furigana": "てんのうせい",
+        "traduction": "uranus",
+        "catgeories": ["systeme solaire"]
+    },
+    {
+        "id": 213,
+        "kanji": "海王星",
+        "furigana": "かいおうせい",
+        "traduction": "neptune",
+        "catgeories": ["systeme solaire"]
+    },
+    {
+        "id": 214,
+        "kanji": "冥王星",
+        "furigana": "めいおうせい",
+        "traduction": "pluton",
+        "catgeories": ["systeme solaire"]
+    },
+    {
+        "id": 215,
+        "kanji": "地球",
+        "furigana": "ちきゅう",
+        "traduction": "la Terre",
+        "catgeories": ["systeme solaire"]
+    }
+,
+    {
+        "id": 216,
+        "kanji": "漢数字",
+        "furigana": "かんすうじ",
+        "traduction": "nombres chinois",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 217,
+        "kanji": "零",
+        "furigana": "れい",
+        "traduction": "zero",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 218,
+        "kanji": "一",
+        "furigana": "いち",
+        "traduction": "un",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 219,
+        "kanji": "二",
+        "furigana": "に",
+        "traduction": "deux",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 220,
+        "kanji": "三",
+        "furigana": "さん",
+        "traduction": "trois",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 221,
+        "kanji": "四",
+        "furigana": "し",
+        "traduction": "quatre",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 222,
+        "kanji": "五",
+        "furigana": "ご",
+        "traduction": "cinq",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 223,
+        "kanji": "六",
+        "furigana": "ろく",
+        "traduction": "six",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 224,
+        "kanji": "七",
+        "furigana": "しち",
+        "traduction": "sept",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 225,
+        "kanji": "八",
+        "furigana": "はち",
+        "traduction": "huit",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 226,
+        "kanji": "九",
+        "furigana": "く/きゅう",
+        "traduction": "neuf",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 227,
+        "kanji": "十",
+        "furigana": "じゅう",
+        "traduction": "dix",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 228,
+        "kanji": "百",
+        "furigana": "ひゃく",
+        "traduction": "cent",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 229,
+        "kanji": "千",
+        "furigana": "せん",
+        "traduction": "mille",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 230,
+        "kanji": "万",
+        "furigana": "まん",
+        "traduction": "dix mille",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 231,
+        "kanji": "各月",
+        "furigana": "かくげつ",
+        "traduction": "chqaue mois",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 232,
+        "kanji": "一月",
+        "furigana": "いちがつ",
+        "traduction": "janvier",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 233,
+        "kanji": "二月",
+        "furigana": "にがつ",
+        "traduction": "fevrier",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 234,
+        "kanji": "三月",
+        "furigana": "さんがつ",
+        "traduction": "mars",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 235,
+        "kanji": "四月",
+        "furigana": "しがつ",
+        "traduction": "avril",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 236,
+        "kanji": "五月",
+        "furigana": "ごがつ",
+        "traduction": "mai",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 237,
+        "kanji": "六月",
+        "furigana": "ろくがつ",
+        "traduction": "juin",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 238,
+        "kanji": "七月",
+        "furigana": "しちがつ",
+        "traduction": "juillet",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 239,
+        "kanji": "八月",
+        "furigana": "はちがつ",
+        "traduction": "aout",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 240,
+        "kanji": "九月",
+        "furigana": "くがつ",
+        "traduction": "septembre",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 241,
+        "kanji": "十月",
+        "furigana": "じゅうがつ",
+        "traduction": "octobre",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 242,
+        "kanji": "十一月",
+        "furigana": "じゅういちがつ",
+        "traduction": "novembre",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 243,
+        "kanji": "十二月",
+        "furigana": "じゅうにがつ",
+        "traduction": "decembre",
+        "catgeories": ["mois"]
+    },
+    {
+        "id": 244,
+        "kanji": "番号",
+        "furigana": "ばんご",
+        "traduction": "numero",
+        "catgeories": ["nombres"]
+    },
+    {
+        "id": 245,
+        "kanji": "一日",
+        "furigana": "ついたち",
+        "traduction": "1er  (du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 246,
+        "kanji": "二日",
+        "furigana": "ふつか",
+        "traduction": "2 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 247,
+        "kanji": "三日",
+        "furigana": "みっか",
+        "traduction": "3 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 248,
+        "kanji": "四日",
+        "furigana": "よっか",
+        "traduction": "4 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 249,
+        "kanji": "五日",
+        "furigana": "いつか",
+        "traduction": "5 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 250,
+        "kanji": "六日",
+        "furigana": "むいか",
+        "traduction": "6 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 251,
+        "kanji": "七日",
+        "furigana": "なのか",
+        "traduction": "7 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 252,
+        "kanji": "八日",
+        "furigana": "ようか",
+        "traduction": "8 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 253,
+        "kanji": "九日",
+        "furigana": "ここのか",
+        "traduction": "9 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 254,
+        "kanji": "十日",
+        "furigana": "とおか",
+        "traduction": "10 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 255,
+        "kanji": "十一日",
+        "furigana": "じゅういちにち",
+        "traduction": "11 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 256,
+        "kanji": "十二日",
+        "furigana": "じゅうににち",
+        "traduction": "12 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 257,
+        "kanji": "十三日",
+        "furigana": "じゅうさんにち",
+        "traduction": "13 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 258,
+        "kanji": "十四日",
+        "furigana": "じゅうよっか",
+        "traduction": "14 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 259,
+        "kanji": "十五日",
+        "furigana": "じゅうごにち",
+        "traduction": "15 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 260,
+        "kanji": "十六日",
+        "furigana": "じゅうろくにち",
+        "traduction": "16 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 261,
+        "kanji": "十七日",
+        "furigana": "じゅうしちにち",
+        "traduction": "17 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 262,
+        "kanji": "十八日",
+        "furigana": "じゅうはちにち",
+        "traduction": "18 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 263,
+        "kanji": "十九日",
+        "furigana": "じゅうくにち",
+        "traduction": "19 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 264,
+        "kanji": "二十日",
+        "furigana": "はつか",
+        "traduction": "20 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 265,
+        "kanji": "二十一日",
+        "furigana": "にじゅういちにち",
+        "traduction": "21 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 266,
+        "kanji": "二十二日",
+        "furigana": "にじゅうににち",
+        "traduction": "22 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 267,
+        "kanji": "二十三日",
+        "furigana": "にじゅうさんにち",
+        "traduction": "23 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 268,
+        "kanji": "二十四日",
+        "furigana": "にじゅうよっか",
+        "traduction": "24 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 269,
+        "kanji": "二十五日",
+        "furigana": "にじゅうごにち",
+        "traduction": "25 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 270,
+        "kanji": "二十六日",
+        "furigana": "にじゅうろくにち",
+        "traduction": "26 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 271,
+        "kanji": "二十七日",
+        "furigana": "にじゅうしちにち",
+        "traduction": "27 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 272,
+        "kanji": "二十八日",
+        "furigana": "にじゅうはちにち",
+        "traduction": "28 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 273,
+        "kanji": "二十九日",
+        "furigana": "にじゅうくにち",
+        "traduction": "29 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 274,
+        "kanji": "三十日",
+        "furigana": "さんじゅうにち",
+        "traduction": "30 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 275,
+        "kanji": "三十一日",
+        "furigana": "さんじゅういちにち",
+        "traduction": "31 (eme jour du mois)",
+        "catgeories": ["jours du mois"]
+    },
+    {
+        "id": 276,
+        "kanji": "年",
+        "furigana": "とし",
+        "traduction": "annee",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 277,
+        "kanji": "世紀",
+        "furigana": "せいき",
+        "traduction": "siecle",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 278,
+        "kanji": "時代",
+        "furigana": "じだい",
+        "traduction": "ere",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 279,
+        "kanji": "明治",
+        "furigana": "めいじ",
+        "traduction": "meiji (ere)",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 280,
+        "kanji": "大正",
+        "furigana": "たいしょう",
+        "traduction": "taishou (ere)",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 281,
+        "kanji": "昭和",
+        "furigana": "しょうわ",
+        "traduction": "shouwa (ere)",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 282,
+        "kanji": "平成",
+        "furigana": "へいせい",
+        "traduction": "heisei (ere)",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 283,
+        "kanji": "令和",
+        "furigana": "れいわ",
+        "traduction": "reiwa (ere)",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 284,
+        "kanji": "時",
+        "furigana": "じ",
+        "traduction": "heure",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 285,
+        "kanji": "分",
+        "furigana": "ふん",
+        "traduction": "minute",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 286,
+        "kanji": "秒",
+        "furigana": "びょう",
+        "traduction": "seconde",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 287,
+        "kanji": "半",
+        "furigana": "はん",
+        "traduction": "moitie (et demie)",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 288,
+        "kanji": "零時",
+        "furigana": "れいじ",
+        "traduction": "minuit (zero heure)",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 289,
+        "kanji": "正午",
+        "furigana": "しょうご",
+        "traduction": "midi",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 290,
+        "kanji": "前",
+        "furigana": "まえ",
+        "traduction": "avant",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 291,
+        "kanji": "午前",
+        "furigana": "ごぜん",
+        "traduction": "avant midi",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 292,
+        "kanji": "午後",
+        "furigana": "ごご",
+        "traduction": "apres midi",
+        "catgeories": ["temps"]
+    },
+    {
+        "id": 293,
+        "kanji": "真夜中",
+        "furigana": "まよなか",
+        "traduction": "minuit (milieu de la nuit)",
+        "catgeories": ["temps"]
     }
 ]
