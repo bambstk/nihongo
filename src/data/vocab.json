@@ -2057,5 +2057,243 @@
         "furigana": "まよなか",
         "traduction": "minuit (milieu de la nuit)",
         "catgeories": ["temps"]
+    },
+    {
+        "id": 294,
+        "kanji": "怪物",
+        "furigana": "かいぶつ",
+        "traduction": "monstre",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 295,
+        "kanji": "満月",
+        "furigana": "まんげつ",
+        "traduction": "pleine lune",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 296,
+        "kanji": "狼男",
+        "furigana": "おおかみおとこ",
+        "traduction": "loup garou",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 297,
+        "kanji": "悪魔",
+        "furigana": "あくま",
+        "traduction": "diable",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 298,
+        "kanji": "亡霊",
+        "furigana": "ぼうれい",
+        "traduction": "fantome",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 299,
+        "kanji": "魔女",
+        "furigana": "まじょ",
+        "traduction": "sorciere",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 300,
+        "kanji": "吸血鬼",
+        "furigana": "きゅうけつき",
+        "traduction": "vampire",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 301,
+        "kanji": "骨格",
+        "furigana": "こっかく",
+        "traduction": "squelette (monstre)",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 302,
+        "kanji": "飴",
+        "furigana": "あめ",
+        "traduction": "bonbon",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 303,
+        "kanji": "仮装",
+        "furigana": "かそう",
+        "traduction": "deguisement",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 304,
+        "kanji": "箒",
+        "furigana": "ほうき",
+        "traduction": "balais",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 305,
+        "kanji": "妖怪",
+        "furigana": "ようかい",
+        "traduction": "yokai",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 306,
+        "kanji": "仮面",
+        "furigana": "かめん",
+        "traduction": "masque",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 307,
+        "kanji": "墓",
+        "furigana": "はか",
+        "traduction": "tombe",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 308,
+        "kanji": "ろうそく",
+        "furigana": "蠟燭",
+        "traduction": "bougie",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 309,
+        "kanji": "幽霊",
+        "furigana": "ゆうれい",
+        "traduction": "fantome",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 310,
+        "kanji": "幽霊屋敷",
+        "furigana": "ゆうれいやしき",
+        "traduction": "maison hantee (manoir fantome)",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 311,
+        "kanji": "かぼちゃ",
+        "furigana": "南瓜",
+        "traduction": "citrouille",
+        "catgeories": ["halloween", "legumes"]
+    },
+    {
+        "id": 312,
+        "kanji": "魔法使い",
+        "furigana": "まほうつかい",
+        "traduction": "sorcier",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 313,
+        "kanji": "墓地",
+        "furigana": "ぼち",
+        "traduction": "cimetiere",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 314,
+        "kanji": "物の怪",
+        "furigana": "もののけ",
+        "traduction": "esprit",
+        "catgeories": ["halloween"]
+    },
+    {
+        "id": 315,
+        "kanji": "雪崩",
+        "furigana": "なだれ",
+        "traduction": "avalanche",
+        "catgeories": ["noel"]
+    },
+    {
+        "id": 316,
+        "kanji": "飾り",
+        "furigana": "かざり",
+        "traduction": "decoration",
+        "catgeories": ["noel"]
+    },
+    {
+        "id": 317,
+        "kanji": "電飾",
+        "furigana": "でんしょく",
+        "traduction": "decoration electrique",
+        "catgeories": ["noel"]
+    },
+    {
+        "id": 318,
+        "kanji": "雪だるま",
+        "furigana": "ゆきだるま",
+        "traduction": "bonhomme de neige",
+        "catgeories": ["noel"]
+    },
+    {
+        "id": 319,
+        "kanji": "柊",
+        "furigana": "ひいらぎ",
+        "traduction": "houx",
+        "catgeories": ["noel"]
+    },
+    {
+        "id": 320,
+        "kanji": "西洋柊",
+        "furigana": "せいようひいらぎ",
+        "traduction": "houx occidental",
+        "catgeories": ["noel"]
+    },
+    {
+        "id": 321,
+        "kanji": "氷",
+        "furigana": "こおり",
+        "traduction": "glace",
+        "catgeories": ["noel"]
+    },
+    {
+        "id": 322,
+        "kanji": "トナカイ",
+        "furigana": "トナカイ",
+        "traduction": "renne",
+        "catgeories": ["noel", "animaux"]
+    },
+    {
+        "id": 323,
+        "kanji": "そり",
+        "furigana": "そり",
+        "traduction": "traineau",
+        "catgeories": ["noel"]
+    },
+    {
+        "id": 324,
+        "kanji": "雪玉",
+        "furigana": "ゆきだま",
+        "traduction": "boule de neige",
+        "catgeories": ["noel"]
+    },
+    {
+        "id": 325,
+        "kanji": "流れ星",
+        "furigana": "ながれぼし",
+        "traduction": "etoile filante",
+        "catgeories": ["noel"]
+    },
+    {
+        "id": 326,
+        "kanji": "流星",
+        "furigana": "りゅうせい",
+        "traduction": "meteore",
+        "catgeories": ["noel"]
+    },
+    {
+        "id": 327,
+        "kanji": "銀世界",
+        "furigana": "ぎんせかい",
+        "traduction": "paysage enneigé (monde argenté)",
+        "catgeories": ["noel"]
     }
 ]

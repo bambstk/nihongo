@@ -31,9 +31,11 @@ function Flashcard ({kanjiId, setKanjiId, currentIndex, setCurrentIndex, showFur
                     ⠀
                 </p>
                 )}
-                <p className="text-6xl text-center mb-2">
-                {vocab[currentIndex].kanji}
-                </p>
+                <a href={`https://www.kanshudo.com/search?q=${vocab[currentIndex].kanji}`} target="_blank" rel="noopener noreferrer">
+                    <p className="text-6xl text-center mb-2">
+                    {vocab[currentIndex].kanji}
+                    </p>
+                </a>
                 {showTranslation ? (
                 <p className="text-xl text-center ">
                     {vocab[currentIndex].traduction}
