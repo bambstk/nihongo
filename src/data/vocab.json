@@ -1464,7 +1464,7 @@
     },
     {
         "id": 209,
-        "kanji": "n木星",
+        "kanji": "木星",
         "furigana": "もくせい",
         "traduction": "jupiter",
         "catgeories": ["systeme solaire"]
@@ -2295,5 +2295,306 @@
         "furigana": "ぎんせかい",
         "traduction": "paysage enneigé (monde argenté)",
         "catgeories": ["noel"]
+    },
+    {
+        "id": 328,
+        "kanji": "日常",
+        "furigana": "にちじょう",
+        "traduction": "quotidien",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 329,
+        "kanji": "服",
+        "furigana": "ふく",
+        "traduction": "vetement",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 330,
+        "kanji": "ヒ－タ－",
+        "furigana": "ヒ－タ－",
+        "traduction": "pull over",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 331,
+        "kanji": "ズボン",
+        "furigana": "ズボン",
+        "traduction": "pantalon",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 332,
+        "kanji": "ジ－ンズ",
+        "furigana": "ジ－ンズ",
+        "traduction": "jeans",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 333,
+        "kanji": "靴",
+        "furigana": "くつ",
+        "traduction": "chaussure",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 334,
+        "kanji": "下駄",
+        "furigana": "げた",
+        "traduction": "geta",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 335,
+        "kanji": "運動靴",
+        "furigana": "うんどうぐつ",
+        "traduction": "chaussures de sports",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 336,
+        "kanji": "靴下",
+        "furigana": "くつした",
+        "traduction": "chaussetes",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 337,
+        "kanji": "ブ－リフ",
+        "furigana": "ブ－リフ",
+        "traduction": "slip",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 338,
+        "kanji": "トランクス",
+        "furigana": "トランクス",
+        "traduction": "caleçon",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 339,
+        "kanji": "パンティ－",
+        "furigana": "パンティ－",
+        "traduction": "culotte",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 340,
+        "kanji": "ブラ（ジャ－）",
+        "furigana": "ブラ（ジャ－）",
+        "traduction": "soutien gorge",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 341,
+        "kanji": "トレーニングウェア",
+        "furigana": "トレーニングウェア",
+        "traduction": "survettement",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 342,
+        "kanji": "外套",
+        "furigana": "がいとう",
+        "traduction": "manteau",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 343,
+        "kanji": "帽子",
+        "furigana": "ぼうし",
+        "traduction": "chapeau",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 344,
+        "kanji": "キャップ",
+        "furigana": "キャップ",
+        "traduction": "casquette",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 345,
+        "kanji": "手袋",
+        "furigana": "てぶくろ",
+        "traduction": "gants",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 346,
+        "kanji": "襟巻き",
+        "furigana": "えりまき",
+        "traduction": "echarpe",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 347,
+        "kanji": "マフラー",
+        "furigana": "マフラー",
+        "traduction": "echarpe",
+        "catgeories": ["vetements"]
+    },
+    {
+        "id": 348,
+        "kanji": "施設",
+        "furigana": "しせつ",
+        "traduction": "etablissement",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 349,
+        "kanji": "単語",
+        "furigana": "たんご",
+        "traduction": "vocabulaire",
+        "catgeories": ["bonus"]
+    },
+    {
+        "id": 350,
+        "kanji": "市役所",
+        "furigana": "しやくしょ",
+        "traduction": "mairie",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 351,
+        "kanji": "学校",
+        "furigana": "がっこう",
+        "traduction": "ecole",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 352,
+        "kanji": "病院",
+        "furigana": "びょういん",
+        "traduction": "hopital",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 353,
+        "kanji": "駅",
+        "furigana": "えき",
+        "traduction": "gare/station",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 354,
+        "kanji": "薬屋",
+        "furigana": "くすりや",
+        "traduction": "pharmacie",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 355,
+        "kanji": "郵便局",
+        "furigana": "ゆうびんきょく",
+        "traduction": "bureau de poste",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 356,
+        "kanji": "銀行",
+        "furigana": "ぎんこう",
+        "traduction": "banque",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 357,
+        "kanji": "店",
+        "furigana": "みせ",
+        "traduction": "magasin",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 358,
+        "kanji": "警察署",
+        "furigana": "けいさつしょ",
+        "traduction": "commisseriat de police",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 359,
+        "kanji": "交番",
+        "furigana": "こうばん",
+        "traduction": "poste de police",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 360,
+        "kanji": "劇場",
+        "furigana": "げきじょう",
+        "traduction": "theatre",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 361,
+        "kanji": "映画館",
+        "furigana": "えいがかん",
+        "traduction": "cinema",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 362,
+        "kanji": "図書館",
+        "furigana": "としょかん",
+        "traduction": "bibliotheque",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 363,
+        "kanji": "美術館",
+        "furigana": "びじゅつかん",
+        "traduction": "musée",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 364,
+        "kanji": "公園",
+        "furigana": "こうえん",
+        "traduction": "parc",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 365,
+        "kanji": "寺",
+        "furigana": "てら",
+        "traduction": "temple(boudhiste)",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 366,
+        "kanji": "動物園",
+        "furigana": "どうぶつえん",
+        "traduction": "zoo",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 367,
+        "kanji": "神社",
+        "furigana": "じんじゃ",
+        "traduction": "sanctuaire (shinto)",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 368,
+        "kanji": "教会",
+        "furigana": "きょうかい",
+        "traduction": "eglise",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 369,
+        "kanji": "港",
+        "furigana": "みなと",
+        "traduction": "port",
+        "catgeories": ["batiments"]
+    },
+    {
+        "id": 370,
+        "kanji": "空港",
+        "furigana": "くうこう",
+        "traduction": "aeroport",
+        "catgeories": ["batiments"]
     }
 ]
