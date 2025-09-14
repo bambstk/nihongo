@@ -291,35 +291,35 @@
         "kanji": "北",
         "furigana": "きた",
         "traduction": "nord",
-        "catgeories": ["premiers kanjis"]
+        "catgeories": ["premiers kanjis", "reperes spatiaux"]
     },
     {
         "id": 42,
         "kanji": "南",
         "furigana": "みなみ",
         "traduction": "sud",
-        "catgeories": ["premiers kanjis"]
+        "catgeories": ["premiers kanjis", "reperes spatiaux"]
     },
     {
         "id": 43,
         "kanji": "東",
         "furigana": "ひがし",
         "traduction": "est (direction cardinale)",
-        "catgeories": ["premiers kanjis"]
+        "catgeories": ["premiers kanjis", "reperes spatiaux"]
     },
     {
         "id": 44,
         "kanji": "西",
         "furigana": "にし",
         "traduction": "ouest",
-        "catgeories": ["premiers kanjis"]
+        "catgeories": ["premiers kanjis", "reperes spatiaux"]
     },
     {
         "id": 45,
         "kanji": "中",
         "furigana": "なか",
-        "traduction": "interieur / dans",
-        "catgeories": ["premiers kanjis"]
+        "traduction": "interieur / dans / milieu",
+        "catgeories": ["premiers kanjis", "reperes spatiaux"]
     },
     {
         "id": 46,
@@ -2596,5 +2596,264 @@
         "furigana": "くうこう",
         "traduction": "aeroport",
         "catgeories": ["batiments"]
+    },
+    {
+        "id": 371,
+        "kanji": "バレンタインデー",
+        "furigana": "バレンタインデー",
+        "traduction": "St valentin",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 372,
+        "kanji": "心",
+        "furigana": "こころ",
+        "traduction": "coeur",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 373,
+        "kanji": "愛",
+        "furigana": "あい",
+        "traduction": "amour",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 374,
+        "kanji": "一目ぼれ",
+        "furigana": "ひとめぼれ",
+        "traduction": "coup de foudre",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 375,
+        "kanji": "天使",
+        "furigana": "てんし",
+        "traduction": "ange",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 376,
+        "kanji": "夢",
+        "furigana": "ゆめ",
+        "traduction": "rêve",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 377,
+        "kanji": "恋人",
+        "furigana": "こいびと",
+        "traduction": "petit.e copaine",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 378,
+        "kanji": "彼氏",
+        "furigana": "かれし",
+        "traduction": "petit copain",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 379,
+        "kanji": "彼女",
+        "furigana": "かのじょ",
+        "traduction": "petite copine",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 380,
+        "kanji": "抱っこ",
+        "furigana": "だっこ",
+        "traduction": "calin",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 381,
+        "kanji": "花束",
+        "furigana": "はなたば",
+        "traduction": "bouquet de fleurs",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 382,
+        "kanji": "バラ",
+        "furigana": "バラ",
+        "traduction": "rose (fleur)",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 383,
+        "kanji": "指輪",
+        "furigana": "ゆびわ",
+        "traduction": "bague",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 384,
+        "kanji": "婚約",
+        "furigana": "こんやく",
+        "traduction": "fiançaille",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 385,
+        "kanji": "婚約者",
+        "furigana": "こんやくしゃ",
+        "traduction": "fiqncé.e",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 386,
+        "kanji": "結婚",
+        "furigana": "けっこん",
+        "traduction": "marriage",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 387,
+        "kanji": "接吻",
+        "furigana": "せっぷん",
+        "traduction": "le baiser",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 388,
+        "kanji": "写真",
+        "furigana": "しゃしん",
+        "traduction": "photo",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 389,
+        "kanji": "花火",
+        "furigana": "はなび",
+        "traduction": "feu d'artifice",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 390,
+        "kanji": "火花",
+        "furigana": "ひばな",
+        "traduction": "eteincelle",
+        "catgeories": ["St valentin"]
+    },
+    {
+        "id": 391,
+        "kanji": "位置",
+        "furigana": "いち",
+        "traduction": "position",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 392,
+        "kanji": "右",
+        "furigana": "みぎ",
+        "traduction": "droite",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 393,
+        "kanji": "左",
+        "furigana": "ひだり",
+        "traduction": "gauche",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 394,
+        "kanji": "上",
+        "furigana": "うえ",
+        "traduction": "dessus",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 395,
+        "kanji": "下",
+        "furigana": "した",
+        "traduction": "dessous",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 396,
+        "kanji": "前",
+        "furigana": "まえ",
+        "traduction": "devant",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 397,
+        "kanji": "後ろ",
+        "furigana": "うしろ",
+        "traduction": "derriere",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 398,
+        "kanji": "内",
+        "furigana": "うち",
+        "traduction": "interieur",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 399,
+        "kanji": "外",
+        "furigana": "そと",
+        "traduction": "dehors / exterieur",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 400,
+        "kanji": "間",
+        "furigana": "あいだ",
+        "traduction": "entre / intervalle",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 401,
+        "kanji": "奥",
+        "furigana": "おく",
+        "traduction": "fond",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 402,
+        "kanji": "表",
+        "furigana": "おもて",
+        "traduction": "(à l')endroit",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 403,
+        "kanji": "裏",
+        "furigana": "うら",
+        "traduction": "(à l')envers",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 404,
+        "kanji": "横",
+        "furigana": "よこ",
+        "traduction": "le coté",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 405,
+        "kanji": "そば",
+        "furigana": "側",
+        "traduction": "à proximité",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 406,
+        "kanji": "隣",
+        "furigana": "となり",
+        "traduction": "voisinage",
+        "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 407,
+        "kanji": "周り",
+        "furigana": "まわり",
+        "traduction": "alentours / circonference",
+        "catgeories": ["reperes spatiaux spatiaux"]
     }
 ]
