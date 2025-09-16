@@ -354,7 +354,7 @@
         "kanji": "口",
         "furigana": "くち",
         "traduction": "bouche",
-        "catgeories": ["premiers kanjis"]
+        "catgeories": ["premiers kanjis", "parties du corps"]
     },
     {
         "id": 51,
@@ -2855,5 +2855,341 @@
         "furigana": "まわり",
         "traduction": "alentours / circonference",
         "catgeories": ["reperes spatiaux spatiaux"]
+    },
+    {
+        "id": 408,
+        "kanji": "主要",
+        "furigana": "しゅよう",
+        "traduction": "principal / chef",
+        "catgeories": ["bonus"]
+    },
+    {
+        "id": 409,
+        "kanji": "動詞",
+        "furigana": "どうし",
+        "traduction": "verbe",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 410,
+        "kanji": "だ/でわ",
+        "furigana": "だ/でわ",
+        "traduction": "etre (description)",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 411,
+        "kanji": "する",
+        "furigana": "する",
+        "traduction": "faire",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 412,
+        "kanji": "いる",
+        "furigana": "いる",
+        "traduction": "etre (presence, humains)",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 413,
+        "kanji": "ある",
+        "furigana": "ある",
+        "traduction": "etre (presence, pas humain)",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 414,
+        "kanji": "行く",
+        "furigana": "いく",
+        "traduction": "aller",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 415,
+        "kanji": "来る",
+        "furigana": "くる",
+        "traduction": "venir",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 416,
+        "kanji": "なる",
+        "furigana": "",
+        "traduction": "devenir",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 417,
+        "kanji": "食べる",
+        "furigana": "たべる",
+        "traduction": "manger",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 418,
+        "kanji": "飲む",
+        "furigana": "のむ",
+        "traduction": "boire",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 419,
+        "kanji": "寝る",
+        "furigana": "ねる",
+        "traduction": "se coucher (dormir)",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 420,
+        "kanji": "見る",
+        "furigana": "みる",
+        "traduction": "regarder",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 421,
+        "kanji": "聞く",
+        "furigana": "きく",
+        "traduction": "ecouter",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 422,
+        "kanji": "話す",
+        "furigana": "はなす",
+        "traduction": "parler",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 423,
+        "kanji": "書く",
+        "furigana": "かく",
+        "traduction": "ecrire",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 424,
+        "kanji": "読む",
+        "furigana": "よむ",
+        "traduction": "lire",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 425,
+        "kanji": "歩く",
+        "furigana": "あるく",
+        "traduction": "marcher",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 426,
+        "kanji": "知る*",
+        "furigana": "しる",
+        "traduction": "savoir",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 427,
+        "kanji": "分かる",
+        "furigana": "わかる",
+        "traduction": "comprendre",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 428,
+        "kanji": "思う",
+        "furigana": "おもう",
+        "traduction": "penser",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 429,
+        "kanji": "言う",
+        "furigana": "いう",
+        "traduction": "dire",
+        "catgeories": ["verbes"]
+    },
+    {
+        "id": 430,
+        "kanji": "人体",
+        "furigana": "じんたい",
+        "traduction": "corps humain",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 431,
+        "kanji": "頭",
+        "furigana": "あたま",
+        "traduction": "tete",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 432,
+        "kanji": "首",
+        "furigana": "くび",
+        "traduction": "cou",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 433,
+        "kanji": "髪",
+        "furigana": "かみ",
+        "traduction": "cheveux",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 434,
+        "kanji": "目",
+        "furigana": "め",
+        "traduction": "oeil",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 435,
+        "kanji": "耳",
+        "furigana": "みみ",
+        "traduction": "oreille",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 436,
+        "kanji": "鼻",
+        "furigana": "はな",
+        "traduction": "nez",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 437,
+        "kanji": "舌",
+        "furigana": "した",
+        "traduction": "langue",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 438,
+        "kanji": "髭",
+        "furigana": "ひげ",
+        "traduction": "barbe",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 439,
+        "kanji": "肩",
+        "furigana": "かた",
+        "traduction": "epaule",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 440,
+        "kanji": "腕",
+        "furigana": "うで",
+        "traduction": "bras",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 441,
+        "kanji": "手",
+        "furigana": "て",
+        "traduction": "main",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 442,
+        "kanji": "指",
+        "furigana": "ゆび",
+        "traduction": "doigt",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 443,
+        "kanji": "胸",
+        "furigana": "むね",
+        "traduction": "poitrine",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 444,
+        "kanji": "腹",
+        "furigana": "はら",
+        "traduction": "ventre",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 445,
+        "kanji": "背中",
+        "furigana": "せなか",
+        "traduction": "dos",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 446,
+        "kanji": "尻",
+        "furigana": "しり",
+        "traduction": "fesses",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 447,
+        "kanji": "足",
+        "furigana": "あし",
+        "traduction": "jambe / pied",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 448,
+        "kanji": "翼",
+        "furigana": "つばさ",
+        "traduction": "ailes",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 449,
+        "kanji": "羽",
+        "furigana": "はね",
+        "traduction": "plume",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 450,
+        "kanji": "尻尾",
+        "furigana": "しっぽ",
+        "traduction": "queue",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 451,
+        "kanji": "毛",
+        "furigana": "け",
+        "traduction": "poil",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 452,
+        "kanji": "髪の毛",
+        "furigana": "かみのけ",
+        "traduction": "un cheveu",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 453,
+        "kanji": "口髭",
+        "furigana": "くちひげ",
+        "traduction": "moustache",
+        "catgeories": ["corps humain"]
+    },
+    {
+        "id": 454,
+        "kanji": "神",
+        "furigana": "かみ",
+        "traduction": "dieu",
+        "catgeories": ["bonus"]
+    },
+    {
+        "id": 455,
+        "kanji": "紙",
+        "furigana": "かみ",
+        "traduction": "papier",
+        "catgeories": ["bonus"]
     }
 ]
