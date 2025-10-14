@@ -2034,8 +2034,8 @@
         "id": 290,
         "kanji": "前",
         "furigana": "まえ",
-        "traduction": "avant",
-        "catgeories": ["temps"]
+        "traduction": "avant / devant",
+        "catgeories": ["temps", "reperes temporels", "reperes spatiaux"]
     },
     {
         "id": 291,
@@ -2742,119 +2742,119 @@
         "kanji": "位置",
         "furigana": "いち",
         "traduction": "position",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 392,
         "kanji": "右",
         "furigana": "みぎ",
         "traduction": "droite",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 393,
         "kanji": "左",
         "furigana": "ひだり",
         "traduction": "gauche",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 394,
         "kanji": "上",
         "furigana": "うえ",
         "traduction": "dessus",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 395,
         "kanji": "下",
         "furigana": "した",
         "traduction": "dessous",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 396,
-        "kanji": "前",
-        "furigana": "まえ",
-        "traduction": "devant",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "kanji": "小石",
+        "furigana": "こいし",
+        "traduction": "petit caillou",
+        "catgeories": ["bonus"]
     },
     {
         "id": 397,
         "kanji": "後ろ",
         "furigana": "うしろ",
         "traduction": "derriere",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 398,
         "kanji": "内",
         "furigana": "うち",
         "traduction": "interieur",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 399,
         "kanji": "外",
         "furigana": "そと",
         "traduction": "dehors / exterieur",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 400,
         "kanji": "間",
         "furigana": "あいだ",
-        "traduction": "entre / intervalle",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "traduction": "entre / pendant / intervalle",
+        "catgeories": ["reperes spatiaux", "reperes temporels"]
     },
     {
         "id": 401,
         "kanji": "奥",
         "furigana": "おく",
         "traduction": "fond",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 402,
         "kanji": "表",
         "furigana": "おもて",
         "traduction": "(à l')endroit",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 403,
         "kanji": "裏",
         "furigana": "うら",
         "traduction": "(à l')envers",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 404,
         "kanji": "横",
         "furigana": "よこ",
         "traduction": "le coté",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 405,
         "kanji": "そば",
         "furigana": "側",
         "traduction": "à proximité",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 406,
         "kanji": "隣",
         "furigana": "となり",
         "traduction": "voisinage",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 407,
         "kanji": "周り",
         "furigana": "まわり",
         "traduction": "alentours / circonference",
-        "catgeories": ["reperes spatiaux spatiaux"]
+        "catgeories": ["reperes spatiaux"]
     },
     {
         "id": 408,
@@ -3191,5 +3191,502 @@
         "furigana": "かみ",
         "traduction": "papier",
         "catgeories": ["bonus"]
+    },
+    {
+        "id": 456,
+        "kanji": "乗り物",
+        "furigana": "のりもの",
+        "traduction": "vehicule",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 457,
+        "kanji": "自動車",
+        "furigana": "じどうしゃ",
+        "traduction": "automobile",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 458,
+        "kanji": "車",
+        "furigana": "くるま",
+        "traduction": "voiture",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 459,
+        "kanji": "自転車",
+        "furigana": "じてんしゃ",
+        "traduction": "velo",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 460,
+        "kanji": "消防車",
+        "furigana": "しょうぼうしゃ",
+        "traduction": "fourgon d'incendie",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 461,
+        "kanji": "救急車",
+        "furigana": "きゅきゅしゃ",
+        "traduction": "ambulance",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 462,
+        "kanji": "パトカ－",
+        "furigana": "パトカ－",
+        "traduction": "patrol car",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 463,
+        "kanji": "列車",
+        "furigana": "れっしゃ",
+        "traduction": "train (pas electrique)",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 464,
+        "kanji": "電車",
+        "furigana": "でんしゃ",
+        "traduction": "train electrique",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 465,
+        "kanji": "路面電車",
+        "furigana": "ろめんでんしゃ",
+        "traduction": "tramway",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 466,
+        "kanji": "地下鉄",
+        "furigana": "ちかてつ",
+        "traduction": "metro",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 467,
+        "kanji": "船",
+        "furigana": "ふね",
+        "traduction": "bateau",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 468,
+        "kanji": "貨物自動車",
+        "furigana": "かもつじどうしゃ",
+        "traduction": "camion",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 469,
+        "kanji": "貨物船",
+        "furigana": "かもつせん",
+        "traduction": "cargo",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 470,
+        "kanji": "索道",
+        "furigana": "さくどう",
+        "traduction": "telepherique",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 471,
+        "kanji": "潜水艦",
+        "furigana": "せんすいかん",
+        "traduction": "sous marin",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 472,
+        "kanji": "艦",
+        "furigana": "かん",
+        "traduction": "navire de guerre",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 473,
+        "kanji": "飛行機",
+        "furigana": "ひこうき",
+        "traduction": "avion",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 474,
+        "kanji": "熱気球",
+        "furigana": "ねつききゅう",
+        "traduction": "montgolfiere",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 475,
+        "kanji": "オ－ビタ",
+        "furigana": "オ－ビタ",
+        "traduction": "orbiter",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 476,
+        "kanji": "宇宙船",
+        "furigana": "うちゅうせん",
+        "traduction": "vaisseau spatial",
+        "catgeories": ["moyens de transport"]
+    },
+    {
+        "id": 477,
+        "kanji": "基本食品",
+        "furigana": "きほんしょくひん",
+        "traduction": "nourriture de base",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 478,
+        "kanji": "米",
+        "furigana": "こめ",
+        "traduction": "riz (cru)",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 479,
+        "kanji": "ご飯",
+        "furigana": "ごはん",
+        "traduction": "riz (cuit)",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 480,
+        "kanji": "野菜",
+        "furigana": "やさい",
+        "traduction": "legumes",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 481,
+        "kanji": "果物",
+        "furigana": "くだもの",
+        "traduction": "fruits",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 482,
+        "kanji": "肉",
+        "furigana": "にく",
+        "traduction": "viande",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 483,
+        "kanji": "卵",
+        "furigana": "たまご",
+        "traduction": "oeuf",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 484,
+        "kanji": "玉子",
+        "furigana": "たまご",
+        "traduction": "oeuf",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 485,
+        "kanji": "お茶",
+        "furigana": "おちゃ",
+        "traduction": "thé",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 486,
+        "kanji": "牛乳",
+        "furigana": "ぎゅうにゅう",
+        "traduction": "lait (de vache)",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 487,
+        "kanji": "お菓子",
+        "furigana": "おかし",
+        "traduction": "bonbon / friandise",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 488,
+        "kanji": "砂糖",
+        "furigana": "さとう",
+        "traduction": "sucre",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 489,
+        "kanji": "塩",
+        "furigana": "しお",
+        "traduction": "sel",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 490,
+        "kanji": "こしょう",
+        "furigana": "胡椒",
+        "traduction": "poivre",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 491,
+        "kanji": "汁物",
+        "furigana": "しるもの",
+        "traduction": "soupe",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 492,
+        "kanji": "お酒",
+        "furigana": "おさけ",
+        "traduction": "alcool",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 493,
+        "kanji": "日本酒",
+        "furigana": "にほんしゅ",
+        "traduction": "saké",
+        "catgeories": ["aliments de base"]
+    },
+    {
+        "id": 494,
+        "kanji": "時間",
+        "furigana": "じかん",
+        "traduction": "temps",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 495,
+        "kanji": "現在",
+        "furigana": "げんざい",
+        "traduction": "present",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 496,
+        "kanji": "過去",
+        "furigana": "かこ",
+        "traduction": "passé",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 497,
+        "kanji": "未来",
+        "furigana": "みらい",
+        "traduction": "futur",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 498,
+        "kanji": "今",
+        "furigana": "いま",
+        "traduction": "maintenant",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 499,
+        "kanji": "後",
+        "furigana": "あと",
+        "traduction": "apres",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 500,
+        "kanji": "以前",
+        "furigana": "いぜん",
+        "traduction": "auparavant",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 501,
+        "kanji": "以後",
+        "furigana": "いご",
+        "traduction": "dorenavant",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 502,
+        "kanji": "さっき",
+        "furigana": "さっき",
+        "traduction": "il y a un instant",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 503,
+        "kanji": "時々",
+        "furigana": "ときどき",
+        "traduction": "de temps en temps",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 504,
+        "kanji": "もう",
+        "furigana": "もう",
+        "traduction": "déjà",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 505,
+        "kanji": "すぐ",
+        "furigana": "直ぐ",
+        "traduction": "immediatement",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 506,
+        "kanji": "もうすぐ",
+        "furigana": "もう直ぐ",
+        "traduction": "bientot",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 507,
+        "kanji": "また",
+        "furigana": "また",
+        "traduction": "encore",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 508,
+        "kanji": "まだ",
+        "furigana": "まだ",
+        "traduction": "(pas) encore",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 509,
+        "kanji": "今日",
+        "furigana": "きょう",
+        "traduction": "aujourd'hui",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 510,
+        "kanji": "昨日",
+        "furigana": "きのう",
+        "traduction": "hier",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 511,
+        "kanji": "一昨日",
+        "furigana": "おととい",
+        "traduction": "avant hier",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 512,
+        "kanji": "明日",
+        "furigana": "あした",
+        "traduction": "demain",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 513,
+        "kanji": "明後日",
+        "furigana": "あさって",
+        "traduction": "apres demain",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 514,
+        "kanji": "毎日",
+        "furigana": "まいにち",
+        "traduction": "tous les jours",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 515,
+        "kanji": "先週",
+        "furigana": "せんしゅう",
+        "traduction": "semaine derniere",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 516,
+        "kanji": "今週",
+        "furigana": "こんしゅう",
+        "traduction": "cette semaine",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 517,
+        "kanji": "来週",
+        "furigana": "らいしゅう",
+        "traduction": "semaine prochaine",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 518,
+        "kanji": "毎週",
+        "furigana": "まいしゅう",
+        "traduction": "chaque semaine",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 519,
+        "kanji": "先月",
+        "furigana": "せんげつ",
+        "traduction": "le mois dernier",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 520,
+        "kanji": "今月",
+        "furigana": "こんげつ",
+        "traduction": "ce mois ci",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 521,
+        "kanji": "来月",
+        "furigana": "らいげつ",
+        "traduction": "le mois prochain",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 522,
+        "kanji": "毎月",
+        "furigana": "まいげつ",
+        "traduction": "tous les mois",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 523,
+        "kanji": "去年",
+        "furigana": "きょねん",
+        "traduction": "l'an dernier",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 524,
+        "kanji": "今年",
+        "furigana": "ことし",
+        "traduction": "cette annee",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 525,
+        "kanji": "来年",
+        "furigana": "らいねん",
+        "traduction": "l'an prochain",
+        "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 526,
+        "kanji": "毎年",
+        "furigana": "まいとし",
+        "traduction": "tous les ans",
+        "catgeories": ["reperes temporels"]
     }
 ]
