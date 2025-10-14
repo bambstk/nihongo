@@ -144,140 +144,140 @@
         "kanji": "家畜",
         "furigana": "かちく",
         "traduction": "animaux domestiques",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 21,
         "kanji": "犬",
         "furigana": "いぬ",
         "traduction": "chien",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 22,
         "kanji": "猫",
         "furigana": "ねこ",
         "traduction": "chat",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 23,
         "kanji": "鳥",
         "furigana": "とり",
         "traduction": "oiseau",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 24,
         "kanji": "魚",
         "furigana": "さかな",
         "traduction": "poisson",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 25,
         "kanji": "狸",
         "furigana": "たぬき",
         "traduction": "tanuki",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 26,
         "kanji": "兎",
         "furigana": "うさぎ",
         "traduction": "lapin",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 27,
         "kanji": "牛",
         "furigana": "うし",
         "traduction": "vache",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 28,
         "kanji": "羊",
         "furigana": "ひつじ",
         "traduction": "mouton",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 29,
         "kanji": "豚",
         "furigana": "ぶた",
         "traduction": "cochon",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 30,
         "kanji": "馬",
         "furigana": "うま",
         "traduction": "cheval",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 31,
         "kanji": "鹿",
         "furigana": "しか",
         "traduction": "cerf",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 32,
         "kanji": "鶏",
         "furigana": "にわとり",
         "traduction": "pouler",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 33,
         "kanji": "鼠",
         "furigana": "ねずみ",
         "traduction": "souris / rat",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 34,
         "kanji": "山羊",
         "furigana": "やぎ",
         "traduction": "chevre",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 35,
         "kanji": "針鼠",
         "furigana": "はりねずみ",
         "traduction": "herisson",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 36,
         "kanji": "馬鹿",
         "furigana": "ばか",
         "traduction": "idiot",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 37,
         "kanji": "ロバ",
         "furigana": "驢馬",
         "traduction": "ane",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 38,
         "kanji": "ラクダ",
         "furigana": "駱駝",
         "traduction": "chameau / dromadaire",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 39,
         "kanji": "リス",
         "furigana": "栗鼠",
         "traduction": "ecureuil",
-        "catgeories": ["animaux"]
+        "catgeories": ["animaux", "animaux domestiques"]
     },
     {
         "id": 40,
@@ -2259,7 +2259,7 @@
         "kanji": "トナカイ",
         "furigana": "トナカイ",
         "traduction": "renne",
-        "catgeories": ["noel", "animaux"]
+        "catgeories": ["noel", "animaux", "animaux domestiques"]
     },
     {
         "id": 323,
@@ -3688,5 +3688,313 @@
         "furigana": "まいとし",
         "traduction": "tous les ans",
         "catgeories": ["reperes temporels"]
+    },
+    {
+        "id": 527,
+        "kanji": "地図",
+        "furigana": "ちず",
+        "traduction": "carte (d'endroit)",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 528,
+        "kanji": "諸島",
+        "furigana": "しょとう",
+        "traduction": "archipel",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 529,
+        "kanji": "日本列島",
+        "furigana": "にほんれっとう",
+        "traduction": "archipel japonais",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 530,
+        "kanji": "太平洋",
+        "furigana": "たいへいよう",
+        "traduction": "ocean pacifique",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 531,
+        "kanji": "日本海",
+        "furigana": "にほんかい",
+        "traduction": "mer du japon",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 532,
+        "kanji": "北海道",
+        "furigana": "ほっかいどう",
+        "traduction": "hokkaido",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 533,
+        "kanji": "本州",
+        "furigana": "ほんしゅう",
+        "traduction": "honshu",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 534,
+        "kanji": "四国",
+        "furigana": "しこく",
+        "traduction": "shikoku",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 535,
+        "kanji": "九州",
+        "furigana": "きゅうしゅう",
+        "traduction": "kyushu",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 536,
+        "kanji": "琉球/沖縄 諸島",
+        "furigana": "りゅうきゅう/おきなざ しょとう",
+        "traduction": "archipel de ryukyu / d'okinawa",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 537,
+        "kanji": "関東",
+        "furigana": "かんとう",
+        "traduction": "kanto",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 538,
+        "kanji": "近畿",
+        "furigana": "きんき",
+        "traduction": "kansai (officiel)",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 539,
+        "kanji": "関西",
+        "furigana": "かんさい",
+        "traduction": "kansai (pas officiel)",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 540,
+        "kanji": "東京",
+        "furigana": "とうきょう",
+        "traduction": "tokyo",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 541,
+        "kanji": "横浜",
+        "furigana": "よこはま",
+        "traduction": "yokohama",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 542,
+        "kanji": "大阪",
+        "furigana": "おおさか",
+        "traduction": "osaka",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 543,
+        "kanji": "名古屋",
+        "furigana": "なごや",
+        "traduction": "nagoya",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 544,
+        "kanji": "札幌",
+        "furigana": "さっぽろ",
+        "traduction": "sapporo",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 545,
+        "kanji": "福岡",
+        "furigana": "ふくおか",
+        "traduction": "fukuoka",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 546,
+        "kanji": "神戸",
+        "furigana": "こうべ",
+        "traduction": "kobe",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 547,
+        "kanji": "京都",
+        "furigana": "きょうと",
+        "traduction": "kyoto",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 548,
+        "kanji": "広島",
+        "furigana": "ひろしま",
+        "traduction": "hiroshima",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 549,
+        "kanji": "福島",
+        "furigana": "ふくしま",
+        "traduction": "fukushima",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 550,
+        "kanji": "富士山",
+        "furigana": "ふじさん",
+        "traduction": "mont fuji",
+        "catgeories": ["carte du Japon"]
+    },
+    {
+        "id": 551,
+        "kanji": "野生",
+        "furigana": "やせい",
+        "traduction": "sauvage",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 552,
+        "kanji": "動物",
+        "furigana": "どうぶつ",
+        "traduction": "animal",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 553,
+        "kanji": "狼",
+        "furigana": "おおかみ",
+        "traduction": "loup",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 554,
+        "kanji": "狐",
+        "furigana": "きつね",
+        "traduction": "renard",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 555,
+        "kanji": "猪",
+        "furigana": "いのしし",
+        "traduction": "sanglier",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 556,
+        "kanji": "熊",
+        "furigana": "くま",
+        "traduction": "ours",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 557,
+        "kanji": "ライオン",
+        "furigana": "ライオン",
+        "traduction": "lion",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 558,
+        "kanji": "獅子",
+        "furigana": "しし",
+        "traduction": "lion",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 559,
+        "kanji": "虎",
+        "furigana": "とら",
+        "traduction": "tigre",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 560,
+        "kanji": "豹",
+        "furigana": "ひょう",
+        "traduction": "leopard / panthere",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 561,
+        "kanji": "猿",
+        "furigana": "さる",
+        "traduction": "singe",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 562,
+        "kanji": "犀",
+        "furigana": "サイ",
+        "traduction": "rhinoceros",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 563,
+        "kanji": "象",
+        "furigana": "ぞう",
+        "traduction": "elephant",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 564,
+        "kanji": "海象",
+        "furigana": "せいうち",
+        "traduction": "morse",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 565,
+        "kanji": "海豹",
+        "furigana": "あざらし",
+        "traduction": "phoque",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 566,
+        "kanji": "縞馬",
+        "furigana": "しまうま",
+        "traduction": "zebre",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 567,
+        "kanji": "河馬",
+        "furigana": "カバ",
+        "traduction": "hippopotame",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 568,
+        "kanji": "キリン",
+        "furigana": "キリン",
+        "traduction": "giraffe",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 569,
+        "kanji": "龍/竜",
+        "furigana": "りゅう/たつ",
+        "traduction": "dragon",
+        "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 570,
+        "kanji": "恐竜",
+        "furigana": "きょうりゅう",
+        "traduction": "dinosaure",
+        "catgeories": ["animaux", "animaux sauvages"]
     }
 ]
