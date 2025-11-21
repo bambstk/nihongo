@@ -3996,5 +3996,453 @@
         "furigana": "きょうりゅう",
         "traduction": "dinosaure",
         "catgeories": ["animaux", "animaux sauvages"]
+    },
+    {
+        "id": 571,
+        "kanji": "世界",
+        "furigana": "せかい",
+        "traduction": "monde",
+        "catgeories": ["bonus"]
+    },
+    {
+        "id": 572,
+        "kanji": "果物",
+        "furigana": "くだもの",
+        "traduction": "fruit",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 573,
+        "kanji": "林檎",
+        "furigana": "りんご",
+        "traduction": "pomme",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 574,
+        "kanji": "梨",
+        "furigana": "なし",
+        "traduction": "poire",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 575,
+        "kanji": "西洋梨",
+        "furigana": "せいようなし",
+        "traduction": "poire occidentale",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 576,
+        "kanji": "桃",
+        "furigana": "もも",
+        "traduction": "peche",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 577,
+        "kanji": "梅",
+        "furigana": "うめ",
+        "traduction": "prune",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 578,
+        "kanji": "葡萄",
+        "furigana": "ぶどう",
+        "traduction": "raisin",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 579,
+        "kanji": "武道",
+        "furigana": "ぶどう",
+        "traduction": "arts martiaux",
+        "catgeories": ["bonus"]
+    },
+    {
+        "id": 580,
+        "kanji": "道場",
+        "furigana": "どうじょう",
+        "traduction": "dojo",
+        "catgeories": ["bonus"]
+    },
+    {
+        "id": 581,
+        "kanji": "桜桃 / 桜ん坊",
+        "furigana": "さくらんぼ",
+        "traduction": "cerise",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 582,
+        "kanji": "蜜柑",
+        "furigana": "みかん",
+        "traduction": "mandarine",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 583,
+        "kanji": "柚子",
+        "furigana": "ゆず",
+        "traduction": "yuzu (citron)",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 584,
+        "kanji": "杏子",
+        "furigana": "あんず",
+        "traduction": "abricot",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 585,
+        "kanji": "無花果",
+        "furigana": "いちじく",
+        "traduction": "figue",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 586,
+        "kanji": "西瓜",
+        "furigana": "すいか",
+        "traduction": "pasteque",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 587,
+        "kanji": "苺",
+        "furigana": "いちご",
+        "traduction": "fraise",
+        "catgeories": ["fruits du monde"]
+    },
+    {
+        "id": 588,
+        "kanji": "昆虫",
+        "furigana": "こんちゅう",
+        "traduction": "insecte",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 589,
+        "kanji": "爬虫類",
+        "furigana": "はちゅうるい",
+        "traduction": "reptiles",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 590,
+        "kanji": "蟻",
+        "furigana": "あり",
+        "traduction": "fourmi",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 591,
+        "kanji": "蠅",
+        "furigana": "はえ",
+        "traduction": "mouche",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 592,
+        "kanji": "蜂",
+        "furigana": "はち",
+        "traduction": "abeille",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 593,
+        "kanji": "蜂蜜",
+        "furigana": "はちみつ",
+        "traduction": "miel",
+        "catgeories": ["insectes et les reptiles"]
+    },
+    {
+        "id": 594,
+        "kanji": "蚊",
+        "furigana": "か",
+        "traduction": "moustique",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 595,
+        "kanji": "蝶",
+        "furigana": "ちょう",
+        "traduction": "papillon",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 596,
+        "kanji": "蝶々",
+        "furigana": "ちょうちょう",
+        "traduction": "papillon (un)",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 597,
+        "kanji": "蜻蛉",
+        "furigana": "とんぼ",
+        "traduction": "libellule",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 598,
+        "kanji": "蝗",
+        "furigana": "いなご",
+        "traduction": "sauterelle",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 599,
+        "kanji": "蜘蛛",
+        "furigana": "くも",
+        "traduction": "araignee",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 600,
+        "kanji": "蠍",
+        "furigana": "さそり",
+        "traduction": "scorpion",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 601,
+        "kanji": "黄金虫",
+        "furigana": "こがねむし",
+        "traduction": "scarabe",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 602,
+        "kanji": "蛞蝓",
+        "furigana": "なめくじ",
+        "traduction": "limace",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 603,
+        "kanji": "天道虫",
+        "furigana": "てんとうむし",
+        "traduction": "coccinelle",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 604,
+        "kanji": "毛虫",
+        "furigana": "けむし",
+        "traduction": "chenille",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 605,
+        "kanji": "蝸牛",
+        "furigana": "かたつむり",
+        "traduction": "escargot",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 606,
+        "kanji": "蛙",
+        "furigana": "かえる",
+        "traduction": "grenouille",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 607,
+        "kanji": "蛇",
+        "furigana": "へび",
+        "traduction": "serpent",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 608,
+        "kanji": "蜥蜴",
+        "furigana": "とかげ",
+        "traduction": "lezard",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 609,
+        "kanji": "亀",
+        "furigana": "かめ",
+        "traduction": "tortue",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 610,
+        "kanji": "鰐",
+        "furigana": "わに",
+        "traduction": "crocodile",
+        "catgeories": ["animaux", "insectes et les reptiles"]
+    },
+    {
+        "id": 611,
+        "kanji": "砂浜",
+        "furigana": "すなはま",
+        "traduction": "plage",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 612,
+        "kanji": "バカンス",
+        "furigana": "バカンス",
+        "traduction": "vacances",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 613,
+        "kanji": "海",
+        "furigana": "うみ",
+        "traduction": "mer",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 614,
+        "kanji": "大洋",
+        "furigana": "たいよう",
+        "traduction": "ocean",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 615,
+        "kanji": "波",
+        "furigana": "なみ",
+        "traduction": "vague",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 616,
+        "kanji": "波乗り",
+        "furigana": "なみのり",
+        "traduction": "le surf (monter vague)",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 617,
+        "kanji": "人魚",
+        "furigana": "にんぎょ",
+        "traduction": "sirene",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 618,
+        "kanji": "砂",
+        "furigana": "すな",
+        "traduction": "sable",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 619,
+        "kanji": "砂遊び",
+        "furigana": "すなあそび",
+        "traduction": "jeux de sable",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 620,
+        "kanji": "麦わら帽子",
+        "furigana": "むぎわらぼうし",
+        "traduction": "chapeau de paille",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 621,
+        "kanji": "眼鏡",
+        "furigana": "めがね",
+        "traduction": "lunettes",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 622,
+        "kanji": "浮き輪",
+        "furigana": "うきわ",
+        "traduction": "bouee",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 623,
+        "kanji": "水着",
+        "furigana": "みずぎ",
+        "traduction": "maillot de bain",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 624,
+        "kanji": "貝",
+        "furigana": "かい",
+        "traduction": "coquillage",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 625,
+        "kanji": "巻貝 （巻き貝)",
+        "furigana": "まきがい",
+        "traduction": "coquillage torsade",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 626,
+        "kanji": "蟹",
+        "furigana": "かに",
+        "traduction": "crabe",
+        "catgeories": ["animaux", "vacances \u00e0 la plage"]
+    },
+    {
+        "id": 627,
+        "kanji": "鷗",
+        "furigana": "かもめ",
+        "traduction": "mouette",
+        "catgeories": ["animaux", "vacances \u00e0 la plage"]
+    },
+    {
+        "id": 628,
+        "kanji": "風船",
+        "furigana": "ふうせん",
+        "traduction": "ballon",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 629,
+        "kanji": "日焼け止め",
+        "furigana": "ひやけどめ",
+        "traduction": "creme solaire",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 630,
+        "kanji": "日焼け",
+        "furigana": "ひやけ",
+        "traduction": "coup de soleil",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 631,
+        "kanji": "鞄",
+        "furigana": "かばん",
+        "traduction": "sac",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 632,
+        "kanji": "日傘",
+        "furigana": "ひがさ",
+        "traduction": "parasol",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 633,
+        "kanji": "椰子",
+        "furigana": "やし",
+        "traduction": "palmier",
+        "catgeories": ["vacances \u00e0 la plage"]
+    },
+    {
+        "id": 634,
+        "kanji": "灯台",
+        "furigana": "とうだい",
+        "traduction": "phare",
+        "catgeories": ["vacances \u00e0 la plage"]
     }
 ]
