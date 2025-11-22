@@ -4444,5 +4444,145 @@
         "furigana": "とうだい",
         "traduction": "phare",
         "catgeories": ["vacances a la plage"]
+    },
+    {
+        "id": 635,
+        "kanji": "家",
+        "furigana": "いえ",
+        "traduction": "maison",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 636,
+        "kanji": "部屋",
+        "furigana": "へや",
+        "traduction": "piece (du batiment)",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 637,
+        "kanji": "寝室",
+        "furigana": "しんしつ",
+        "traduction": "chambre a coucher",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 638,
+        "kanji": "台所",
+        "furigana": "だいどころ",
+        "traduction": "cuisine",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 639,
+        "kanji": "風呂場",
+        "furigana": "ふろば",
+        "traduction": "salle de bain",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 640,
+        "kanji": "お手洗い",
+        "furigana": "おてあらい",
+        "traduction": "WC",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 641,
+        "kanji": "浴槽",
+        "furigana": "よくそう",
+        "traduction": "baignoire",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 642,
+        "kanji": "階段",
+        "furigana": "かいだん",
+        "traduction": "escaliers",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 643,
+        "kanji": "屋根",
+        "furigana": "やね",
+        "traduction": "toit",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 644,
+        "kanji": "屋根裏(部屋)",
+        "furigana": "やねうら(へや)",
+        "traduction": "grenier (piece)",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 645,
+        "kanji": "地下貯蔵庫",
+        "furigana": "ちかちょぞうこ",
+        "traduction": "cave (entreposer sous terre)",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 646,
+        "kanji": "庭",
+        "furigana": "にわ",
+        "traduction": "jardin",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 647,
+        "kanji": "郵便受け",
+        "furigana": "ゆうびんうけ",
+        "traduction": "boite aux lettres",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 648,
+        "kanji": "玄関",
+        "furigana": "げんかん",
+        "traduction": "genkan (entree)",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 649,
+        "kanji": "床",
+        "furigana": "ゆか",
+        "traduction": "sol",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 650,
+        "kanji": "天井",
+        "furigana": "てんじょう",
+        "traduction": "toit",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 651,
+        "kanji": "壁",
+        "furigana": "かべ",
+        "traduction": "mur",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 652,
+        "kanji": "窓",
+        "furigana": "まど",
+        "traduction": "fenetre",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 653,
+        "kanji": "煙突",
+        "furigana": "えんとつ",
+        "traduction": "cheminee (dehors)",
+        "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 654,
+        "kanji": "暖炉",
+        "furigana": "だんろ",
+        "traduction": "cheminee (dedans)",
+        "catgeories": ["pieces de la maison"]
     }
 ]
