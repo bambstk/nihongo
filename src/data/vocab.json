@@ -4584,5 +4584,145 @@
         "furigana": "だんろ",
         "traduction": "cheminee (dedans)",
         "catgeories": ["pieces de la maison"]
+    },
+    {
+        "id": 655,
+        "kanji": "家電",
+        "furigana": "かでん",
+        "traduction": "electromenager",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 656,
+        "kanji": "機器",
+        "furigana": "きき",
+        "traduction": "appareil",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 657,
+        "kanji": "電気",
+        "furigana": "でんき",
+        "traduction": "electricite",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 658,
+        "kanji": "電球",
+        "furigana": "でんきゅう",
+        "traduction": "ampoule",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 659,
+        "kanji": "電子レンジ",
+        "furigana": "でんしレンジ",
+        "traduction": "micro onde",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 660,
+        "kanji": "電子",
+        "furigana": "でんし",
+        "traduction": "electron",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 661,
+        "kanji": "機械",
+        "furigana": "きかい",
+        "traduction": "machine",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 662,
+        "kanji": "掃除機",
+        "furigana": "そうじき",
+        "traduction": "aspirateur",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 663,
+        "kanji": "扇風機",
+        "furigana": "せんぷうき",
+        "traduction": "ventilateur",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 664,
+        "kanji": "洗濯機",
+        "furigana": "せんたくき",
+        "traduction": "machine a laver",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 665,
+        "kanji": "食器洗い機",
+        "furigana": "しょっきあらいき",
+        "traduction": "lave vaisselle",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 666,
+        "kanji": "冷蔵庫",
+        "furigana": "れいぞうこ",
+        "traduction": "frigo",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 667,
+        "kanji": "冷凍庫",
+        "furigana": "れいとうこ",
+        "traduction": "congelo",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 668,
+        "kanji": "炊飯器",
+        "furigana": "すいはんき",
+        "traduction": "rice cooker",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 669,
+        "kanji": "電話",
+        "furigana": "でんわ",
+        "traduction": "telephone",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 670,
+        "kanji": "携帯電話",
+        "furigana": "けいたいでんわ",
+        "traduction": "telephone portable",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 671,
+        "kanji": "たこ足配線",
+        "furigana": "たこあしはいせん",
+        "traduction": "multiprise",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 672,
+        "kanji": "コンセント",
+        "furigana": "コンセント",
+        "traduction": "prise electrique",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 673,
+        "kanji": "差し込みプラグ",
+        "furigana": "さしこみプラグ",
+        "traduction": "prise electrique (male)",
+        "catgeories": ["appareils appareils électroménagers"]
+    },
+    {
+        "id": 674,
+        "kanji": "配線用差込接続器",
+        "furigana": "はいせんようさしこみせつぞくき",
+        "traduction": "prise electrique",
+        "catgeories": ["appareils appareils électroménagers"]
     }
 ]
