@@ -1061,7 +1061,7 @@
         "kanji": "家族",
         "furigana": "かぞく",
         "traduction": "famille",
-        "catgeories": ["famille"]
+        "catgeories": ["famille", "famille d’autrui"]
     },
     {
         "id": 152,
@@ -4590,139 +4590,482 @@
         "kanji": "家電",
         "furigana": "かでん",
         "traduction": "electromenager",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 656,
         "kanji": "機器",
         "furigana": "きき",
         "traduction": "appareil",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 657,
         "kanji": "電気",
         "furigana": "でんき",
         "traduction": "electricite",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 658,
         "kanji": "電球",
         "furigana": "でんきゅう",
         "traduction": "ampoule",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 659,
         "kanji": "電子レンジ",
         "furigana": "でんしレンジ",
         "traduction": "micro onde",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 660,
         "kanji": "電子",
         "furigana": "でんし",
         "traduction": "electron",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 661,
         "kanji": "機械",
         "furigana": "きかい",
         "traduction": "machine",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 662,
         "kanji": "掃除機",
         "furigana": "そうじき",
         "traduction": "aspirateur",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 663,
         "kanji": "扇風機",
         "furigana": "せんぷうき",
         "traduction": "ventilateur",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 664,
         "kanji": "洗濯機",
         "furigana": "せんたくき",
         "traduction": "machine a laver",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 665,
         "kanji": "食器洗い機",
         "furigana": "しょっきあらいき",
         "traduction": "lave vaisselle",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 666,
         "kanji": "冷蔵庫",
         "furigana": "れいぞうこ",
         "traduction": "frigo",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 667,
         "kanji": "冷凍庫",
         "furigana": "れいとうこ",
         "traduction": "congelo",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 668,
         "kanji": "炊飯器",
         "furigana": "すいはんき",
         "traduction": "rice cooker",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 669,
         "kanji": "電話",
         "furigana": "でんわ",
         "traduction": "telephone",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 670,
         "kanji": "携帯電話",
         "furigana": "けいたいでんわ",
         "traduction": "telephone portable",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 671,
         "kanji": "たこ足配線",
         "furigana": "たこあしはいせん",
         "traduction": "multiprise",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 672,
         "kanji": "コンセント",
         "furigana": "コンセント",
         "traduction": "prise electrique",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 673,
         "kanji": "差し込みプラグ",
         "furigana": "さしこみプラグ",
         "traduction": "prise electrique (male)",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
     },
     {
         "id": 674,
         "kanji": "配線用差込接続器",
         "furigana": "はいせんようさしこみせつぞくき",
         "traduction": "prise electrique",
-        "catgeories": ["appareils appareils électroménagers"]
+        "catgeories": ["appareils électroménagers"]
+    },
+    {
+        "id": 675,
+        "kanji": "他人",
+        "furigana": "たにん",
+        "traduction": "autre personne",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 676,
+        "kanji": "ご家族",
+        "furigana": "ごかぞく",
+        "traduction": "votre famille",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 677,
+        "kanji": "ご主人",
+        "furigana": "ごしゅじん",
+        "traduction": "votre epoux",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 678,
+        "kanji": "奥さん",
+        "furigana": "おくさん",
+        "traduction": "votre epouse",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 679,
+        "kanji": "ご両親",
+        "furigana": "ごりょうしん",
+        "traduction": "vos parents",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 680,
+        "kanji": "お父さん",
+        "furigana": "おとうさん",
+        "traduction": "votre pere",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 681,
+        "kanji": "お母さん",
+        "furigana": "おかあさん",
+        "traduction": "votre mere",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 682,
+        "kanji": "お子さん",
+        "furigana": "おこさん",
+        "traduction": "votre enfant",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 683,
+        "kanji": "息子さん",
+        "furigana": "むすこさん",
+        "traduction": "votre fils",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 684,
+        "kanji": "娘さん",
+        "furigana": "むすめさん",
+        "traduction": "votre fille",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 685,
+        "kanji": "ご祖父母",
+        "furigana": "ごそふぼ",
+        "traduction": "vos grands parents",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 686,
+        "kanji": "お祖父さん",
+        "furigana": "おじいさん",
+        "traduction": "votre grand pere",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 687,
+        "kanji": "お祖母さん",
+        "furigana": "おばあさん",
+        "traduction": "votre grand mere",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 688,
+        "kanji": "お孫さん",
+        "furigana": "おまごさん",
+        "traduction": "votre petit enfant",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 689,
+        "kanji": "お兄さん",
+        "furigana": "おにいさん",
+        "traduction": "votre grand frere",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 690,
+        "kanji": "弟さん",
+        "furigana": "おとうとさん",
+        "traduction": "votre petit frere",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 691,
+        "kanji": "ご兄弟",
+        "furigana": "ごきょうだい",
+        "traduction": "votre fraterie",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 692,
+        "kanji": "お姉さん",
+        "furigana": "おねえさん",
+        "traduction": "votre grande soeur",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 693,
+        "kanji": "妹さん",
+        "furigana": "いもうとさん",
+        "traduction": "votre petite soeur",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 694,
+        "kanji": "おいとこさん",
+        "furigana": "おいとこさん",
+        "traduction": "votre cousin.e",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 695,
+        "kanji": "伯/叔父さん",
+        "furigana": "おじさん",
+        "traduction": "votre oncle",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 696,
+        "kanji": "叔/伯母さん",
+        "furigana": "おばさん",
+        "traduction": "votre tante",
+        "catgeories": ["famille d'autrui"]
+    },
+    {
+        "id": 697,
+        "kanji": "物理単位",
+        "furigana": "ぶつりたんい",
+        "traduction": "unite de mesure",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 698,
+        "kanji": "階",
+        "furigana": "かい",
+        "traduction": "escalier",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 699,
+        "kanji": "段",
+        "furigana": "だん",
+        "traduction": "marche d'escalier / niveau / grade",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 700,
+        "kanji": "話",
+        "furigana": "わ",
+        "traduction": "episode / histoire",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 700,
+        "kanji": "泊",
+        "furigana": "はく",
+        "traduction": "nuité",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 701,
+        "kanji": "歳",
+        "furigana": "さい",
+        "traduction": "age en annee",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 702,
+        "kanji": "代",
+        "furigana": "だい",
+        "traduction": "generation",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 703,
+        "kanji": "番",
+        "furigana": "ばん",
+        "traduction": "numero",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 704,
+        "kanji": "倍",
+        "furigana": "ばい",
+        "traduction": "multiplicateur",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 705,
+        "kanji": "回",
+        "furigana": "かい",
+        "traduction": "occurence (aui se repete)",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 706,
+        "kanji": "度",
+        "furigana": "ど",
+        "traduction": "occurence / degre (temp ou angle)",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 707,
+        "kanji": "一秒",
+        "furigana": "いちびょう",
+        "traduction": "1 seconde",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 708,
+        "kanji": "一分",
+        "furigana": "いっぷん",
+        "traduction": "1 minute",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 709,
+        "kanji": "一時間",
+        "furigana": "いちじかん",
+        "traduction": "1 heure (duree)",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 710,
+        "kanji": "一日",
+        "furigana": "いちにち",
+        "traduction": "1 jour",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 711,
+        "kanji": "二日間",
+        "furigana": "ふつかかん",
+        "traduction": "2 jours",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 712,
+        "kanji": "十一日間",
+        "furigana": "じゅういちにちかん",
+        "traduction": "11 jours",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 713,
+        "kanji": "一週間",
+        "furigana": "いっしゅうかん",
+        "traduction": "1 semaine",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 714,
+        "kanji": "一年（間）",
+        "furigana": "いちねん（かん）",
+        "traduction": "1 annee",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 715,
+        "kanji": "一ヶ月",
+        "furigana": "いっかげつ",
+        "traduction": "1 mois",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 716,
+        "kanji": "セ氏20度",
+        "furigana": "せし20ど",
+        "traduction": "20°C",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 717,
+        "kanji": "一週間に二回",
+        "furigana": "いっしゅうかんににかい",
+        "traduction": "2 fois par semaine",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 718,
+        "kanji": "一週間前",
+        "furigana": "いっしゅうかんまえ",
+        "traduction": "il y a une semaine",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 719,
+        "kanji": "一週間後",
+        "furigana": "いっしゅうかんご",
+        "traduction": "dans une semaine",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 720,
+        "kanji": "平方メートル",
+        "furigana": "へいほメートル",
+        "traduction": "㎡",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 721,
+        "kanji": "立方メートル",
+        "furigana": "りっぽメートル",
+        "traduction": "㎥",
+        "catgeories": ["unités de mesure"]
+    },
+    {
+        "id": 722,
+        "kanji": "キロメートル毎時",
+        "furigana": "キロメートルまいじ",
+        "traduction": "km/h",
+        "catgeories": ["unités de mesure"]
     }
 ]
